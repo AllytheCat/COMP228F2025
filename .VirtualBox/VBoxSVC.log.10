@@ -1,0 +1,19 @@
+71:09:16.671146          Log continuation - Log started 2025-03-19T20:09:21.447808900Z
+71:09:17.617903 MainPower Host resumed: Resumed 1 VMs
+71:09:18.993843          Finished saving settings file "C:\Users\User\.VirtualBox\VirtualBox.xml"
+71:09:19.119716          Saving settings file "C:\Users\User\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+71:09:19.125413          Finished saving settings file "C:\Users\User\.VirtualBox\VirtualBox.xml"
+71:09:19.210073          Saving settings file "C:\Users\User\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+71:09:19.216662          Finished saving settings file "C:\Users\User\.VirtualBox\VirtualBox.xml"
+71:09:20.143950 dns-monitor HostDnsMonitor: updating information
+71:09:20.145016 dns-monitor HostDnsMonitor: unchanged
+71:09:22.120690          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+71:09:22.374911          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Running)}, preserve=false aResultDetail=0
+71:09:22.430134 dns-monitor HostDnsMonitor: updating information
+71:09:22.430171 dns-monitor HostDnsMonitor: unchanged
+71:09:30.950004 USBPROXY usbLibGetDevices: Starting USB device enumeration
+71:09:30.951408 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&39a1ffa8&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+71:09:31.029673 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+71:09:31.143416 USBPROXY USB: Unknown USB device detected (idVendor: 0x04f2, idProduct: 0xb72b)
+74:09:41.935179 MainPower Host suspending: Paused 1 VMs
+74:09:41.935234 MainPower Log rotated - Log started 2025-03-19T20:09:21.447808900Z
