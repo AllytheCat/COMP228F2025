@@ -53,6 +53,8 @@ public class BankAccount_AS {
 		return accountNumber;
 	}
 	
+	// return string representation of BankAccount_AS object 
+	@Override
 	public String toString() {
 		return String.format("Account Number: %s%nBalance: $%.2f",
 				getAccountNumber(), getBalance());
