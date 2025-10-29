@@ -1,5 +1,0 @@
-02:10:21.024818 Log continuation - Log started 2025-03-19T20:09:22.298129900Z
-02:10:21.024956 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenWorkAreaResized: Screen 0 work area is formally resized to: 0x0 x 1536x816
-02:10:21.471116 GUI: UIMediumEnumerator: Medium-enumeration finished!
-162:21:03.059024 GUI: UICommon: Handling aboutToQuit request..
-162:21:03.061188 Log rotated - Log started 2025-03-19T20:09:22.298129900Z
